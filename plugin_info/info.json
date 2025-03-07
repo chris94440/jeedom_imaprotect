@@ -1,0 +1,17 @@
+{
+	"id" : "imaprotect",
+	"name" : "Alarme ImaProtect",
+	"description" : "Gestion de l'alarme IMA Protect téléassistance",
+	"changelog" : "https://github.com/lplancke/jeedom_alarme_IMA/blob/master/docs/fr_FR/changelog.md",
+	"documentation": "https://github.com/lplancke/jeedom_alarme_IMA/blob/master/docs/fr_FR/index.md",
+	"licence" : "AGPL",
+	"author" : "C. Demongeot",
+	"require" : "4",
+	"category" : "security",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"language" : ["fr_FR","en_US","de_DE","sp_SP","ru_RU","id_ID","it_IT"],
+    	"whiteListFolders": ["data/img","data/records"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile","v4"]
+}
