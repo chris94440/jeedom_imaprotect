@@ -1,2 +1,2 @@
-# jeedom_alarme_IMA
-Plugin Jeedom de gestion de l'alarme IMA téléassistance
+# jeedom_imaprotect
+Plugin Jeedom de gestion de l'alarme IMA Protect téléassistance
